@@ -5,7 +5,7 @@
 ## INFORMASI PROYEK
 
 **Judul Proyek:**  
-Automated Essay Scoring (AES) Bahasa Indonesia Menggunakan Pendekatan Hybrid NLP-Transformers untuk Evaluasi Otomatis Jawaban Esai
+Automated Essay Scoring (AES) Evaluasi Otomatis Jawaban Esai
 
 **Nama Mahasiswa:** Erlangga Deanda Chandra Setya  
 **NIM:** [Isi NIM Anda]  

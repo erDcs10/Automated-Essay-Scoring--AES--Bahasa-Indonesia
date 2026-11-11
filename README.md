@@ -7,14 +7,14 @@
 **Judul Proyek:**  
 Automated Essay Scoring (AES) Evaluasi Otomatis Jawaban Esai
 
-**Nama Mahasiswa:** Erlangga Deanda Chandra Setya  
-**NIM:** [Isi NIM Anda]  
+**Nama Mahasiswa:** Erlangga Deanda Chandra Setya, Muhammad Rofiqul Anam
+**NIM:** 244311013, 244311019  
 **Program Studi:** D4 Teknologi Rekayasa Perangkat Lunak  
 **Mata Kuliah:** Machine Learning / Pembelajaran Mesin  
-**Dosen Pengampu:** [Nama Dosen Pengampu]  
-**Tahun Akademik:** 2026/2027 (Semester Genap)  
-**Link GitHub Repository:** `https://github.com/[UsernameAnda]/automated-essay-scoring-id`  
-**Link Video Pembahasan:** `https://youtube.com/watch?v=[ID_VIDEO_ANDA]`  
+**Dosen Pengampu:** Gus Nanang Syaifuddin S.Kom M.Kom   
+**Tahun Akademik:** 2026/2027 (Semester Ganjil)  
+**Link GitHub Repository:** ``  
+**Link Video Pembahasan:** ``  
 **SDG yang Dipilih:** SDG 4 – Pendidikan Berkualitas  
 **Target SDG yang Relevan:** Target 4.1 – Memastikan bahwa semua anak menyelesaikan pendidikan dasar dan menengah yang gratis, setara, dan berkualitas yang mengarah pada hasil belajar yang relevan dan efektif.
 

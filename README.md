@@ -4,7 +4,7 @@
 |----------|-----------------|
 | Nama / NIM | [ Erlangga Deanda Chandra Setya / 244311013, Muhammad Rofiqul Anam / 244311019] |
 | Judul ide | [ Pengembangan Sistem Automated Essay Scoring (AES) Bahasa Indonesia untuk Evaluasi Pembelajaran Otomatis ] |
-| SDG & target yang dipilih | [ 4 & 4.1] Quality Education|
+| SDG & target yang dipilih | [ 4 & 4.1] Quality Education & Memastikan pendidikan yang inklusif dan berkualitas serta mendukung kesempatan belajar bagi semua|
 | Masalah nyata yang diangkat | [ Ketimpangan rasio guru dan siswa di Indonesia, di mana pemeriksaan esai secara manual sering kali memakan waktu sangat lama ] |
 | Tugas ML (Target & jenis tugas) | [ Jenis Tugas: Regresi / Klasifikasi Terurut (Ordinal Classification). Target: Memprediksi nilai/skor numerik (skala 0–100 atau 1–5) dari jawaban esai siswa berdasarkan tingkat kesesuaian makna (semantic similarity) dan kelengkapan konten terhadap kunci jawaban / rubrik penilaian guru.] |
 | Objective & metrik utama | [ Membangun pipeline evaluasi jawaban esai Bahasa Indonesia yang presisi, obyektif, dan konsisten terhadap acuan skor guru. ] |
